@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 100px;
+    text-decoration: none;
+    background-color: aqua;
+    width: 100%;
+}
+.line1{
+    text-decoration: none;
+    color: red;
+    font-size: 50px;
+}
+.line2 {
+    text-decoration: none;
+    color: red;
+    font-size: 50px;
+}
+.line3 {
+    text-decoration: none;
+    color: red;
+    font-size: 50px;
+}
+.line4 {
+    text-decoration: none;
+    color: red;
+    font-size: 50px;
+}
